@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=kaiti&size=25&pause=1000&width=435&lines=%E4%B8%96%E4%B8%8A%E6%9C%AC%E6%97%A0%E4%BA%8B%EF%BC%8C%E5%BA%B8%E4%BA%BA%E8%87%AA%E6%89%B0%E4%B9%8B)](https://git.io/typing-svg)
 
 <!--
 **lonely-zhou/lonely-zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
